@@ -11,6 +11,6 @@ The pipeline follows the steps:
 
 
       3.2)  correlating clusters with genomics data (manhattan plot generation)
+![plot](manhattan_plot.png)
 
-
-This repo only shows the code to run the pipeline, original data is not shared. Only the shape of the data is shown 
+This repo only shows the code to run the pipeline, the original data is not shared. Only the shape of the data is shown 
