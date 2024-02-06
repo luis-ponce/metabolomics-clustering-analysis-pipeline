@@ -4,7 +4,7 @@ This repo contains a notebook with the pipeline for metabolomics data assessment
 The pipeline follows the steps:
 1) filtering out metabolites with bad signal or marked batch effect
 2) reducing the dimensionality and clustering
-![plot](biplot with cluster.png)
+![plot](biplot_with_cluster.png)
 3) correlating clusters with output data:
    
       3.1)  correlating clusters with output patient data
