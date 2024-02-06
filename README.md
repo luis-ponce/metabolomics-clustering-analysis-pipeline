@@ -6,7 +6,7 @@ The pipeline follows the steps:
 2) reducing the dimensionality and clustering
 3) correlating clusters with output data:
    
-3.1)  correlating clusters with output patient's data
+      3.1)  correlating clusters with output patient's data
 
 
-3.2)  correlating clusters with genomics data (manhattan plot generation)
+      3.2)  correlating clusters with genomics data (manhattan plot generation)
